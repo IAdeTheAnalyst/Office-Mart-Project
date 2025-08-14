@@ -18,7 +18,7 @@ This project presents a dynamic sales analytics dashboard built in Power BI for 
 
 ## 📊 Dashboard Preview
 
-![Office Mart Dashboard](Office%20Mart.png)
+![Office Mart Dashboard](office%20mart.png.png)
 
 ---
 
